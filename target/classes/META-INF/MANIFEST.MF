@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: roobe
+Build-Jdk: 13.0.2
+Implementation-Title: CadPessoa
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.cadpessoa
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/CadPessoa/
+Created-By: Maven Integration for Eclipse
+

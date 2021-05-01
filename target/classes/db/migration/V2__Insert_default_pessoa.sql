@@ -1,0 +1,1 @@
+INSERT INTO pessoa (nome, sexo, email, dtnascimento, naturalidade, nacionalidade, cpf, dtcadastro) VALUES ('Diego Ricardo Cossa', 'MASCULINO', 'diegocossa@gmail.com', '1989-05-03', 'Francisco Beltrão', 'Brasileiro', '04660621928', current_timestamp);
